@@ -1,4 +1,7 @@
 # bmi.c
+
+nombre:Gutierrez Cesar
+legajo:409076
 include <stdio.h>
 
 int main() {
